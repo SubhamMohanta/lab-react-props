@@ -1,0 +1,14 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+/* .child_div{
+    width: 100%;
+} */
+
+.image{
+    width: 48%;
+    height: 100%;
+    padding: 1%;
+}
